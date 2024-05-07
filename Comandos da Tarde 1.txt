@@ -1,0 +1,32 @@
+C:\Users\24153556\Documents\Tarde\Versionamento>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é BC12-F43D
+
+ Pasta de C:\Users\24153556\Documents\Tarde\Versionamento
+
+07/05/2024  14:04    <DIR>          .
+07/05/2024  14:04    <DIR>          ..
+07/05/2024  14:03                 0 Comandos da Tarde 1.txt
+07/05/2024  13:41               388 Comandos da Tarde.txt
+07/05/2024  13:38                 0 Comandos GitHub.txt
+07/05/2024  13:30           116.345 lavignyassantiago_Versionamento.pdf
+               4 arquivo(s)        116.733 bytes
+               2 pasta(s)   66.735.468.544 bytes disponíveis
+Novo:
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Comandos da Tarde 1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\24153556\Documents\Tarde\Versionamento>git add .
+
+C:\Users\24153556\Documents\Tarde\Versionamento>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Comandos da Tarde 1.txt
+
+Novo 2:
